@@ -1,0 +1,16 @@
+.banner {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4)), url('Ketahui-Kalori-Ayam-Geprek-dan-Bahan-Pelengkap-Lainnya.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-outline-secondary {
+    color: white;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
