@@ -14,3 +14,18 @@
     transition: 0.3s;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+.icon-service {
+    width: 90px;
+    height: 90px;
+    border: solid #f5f3f3 2px;
+    border-radius: 50%;
+    color: #ffff;
+}
+.col-lg-4{
+    height: auto;
+    background-color: red;
+}
+
+.background-services{
+    background-color: red;
+}
